@@ -5,4 +5,6 @@
 2.
 3.
 
-Output Obtained
+###Output Obtained
+
+![code 1](output.png)
